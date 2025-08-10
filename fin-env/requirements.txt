@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pyautogen
+psycopg2-binary
+sqlalchemy
+chromadb
+sentence_transformers
+autogen_ext
+openai
+tiktoken

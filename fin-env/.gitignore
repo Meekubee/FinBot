@@ -1,0 +1,13 @@
+# Python virtual environment files
+/Include
+/Lib
+/Scripts
+pyvenv.cfg
+
+# Python-specific files to ignore
+__pycache__/
+*.pyc
+
+# Local data and sensitive files
+/chroma_db_data
+settings.py
